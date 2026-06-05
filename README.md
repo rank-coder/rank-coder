@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Nafee
-
+![GitHub Snake Light](../../raw/output/github-contribution-grid-snake-light.svg#gh-light-mode-only)
+![GitHub Snake dark](../../raw/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 <!--
 **rank-coder/rank-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
